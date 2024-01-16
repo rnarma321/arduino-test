@@ -1,0 +1,3 @@
+# requirements.txt
+
+pyserial==3.5
